@@ -180,3 +180,18 @@ void main() {
   print(Random().nextInt(10));
 }
 ```
+>Задание №24
+```dart
+bool a(int number){
+   return number % 2 == 0;
+}
+bool b(int number){
+   return number % 2 != 0;
+}
+void main() {
+  int a1 = 2;
+  int b1 = 3;
+  print('Четное = ${a(a1)};');
+  print('Не четное = ${b(b1)};');
+}
+```
