@@ -6,12 +6,15 @@ void main() {
     print('hello ${i + 1}');
   }
 }
+```
+>Задание №2
+```dart
 void main() {
   int age = 25;
     print('значение переменной age = ${age};');
   
 }
-
+```
 void main() {
   double height = 1.75;
   print('значение переменной height = ${height};');
