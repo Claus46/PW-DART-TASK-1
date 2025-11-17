@@ -1,5 +1,5 @@
 # Практическая работа по дисциплине - Разработка мобильных приложений
->Задание №1 - Что нужно сделать???!!!
+>Задание №1 - Что нужно сделать???!!! - от 1 до 10 привет мир.
 ```dart
 void main() {
   for (var i = 0; i < 10; i++) {
@@ -7,7 +7,7 @@ void main() {
   }
 }
 ```
->Задание №2
+>Задание №2 - значение переменной
 ```dart
 void main() {
   int age = 25;
@@ -15,49 +15,49 @@ void main() {
   
 }
 ```
->Задание №3
+>Задание №3 - значение переменной double
 ```dart
 void main() {
   double height = 1.75;
   print('значение переменной height = ${height};');
 }
 ```
->Задание №4
+>Задание №4 - значение переменной String
 ```dart
 void main() {
   String name = "ДПК";
   print('значение переменной name = ${name};');
 }
 ```
->Задание №5
+>Задание №5 - значение переменной true/false
 ```dart
 void main() {
   bool isStudent = true;
   print('значение переменной isStudwnt = ${isStudent};');
 }
 ```
->Задание №6
+>Задание №6 - numbers
 ```dart
 void main() {
   List<int> numbers = [1,2,3,4,5];
   print('значение переменной numbers = ${numbers};');
 }
 ```
->Задание №7
+>Задание №7 - значение нескольких переменных scores 
 ```dart
 void main() {
   Map<String, int> scores = {"User1": 95, "User2": 88};
   print('значение переменной scores = ${scores};');
 }
 ```
->Задание №8
+>Задание №8 - uniqueNumbers 
 ```dart
 void main() {
   Set<int> uniqueNumbers = {1, 2, 3, 4, 5,};
   print('значение переменной  uniqueNumbers  = ${ uniqueNumbers };');
 }
 ```
->Задание №9
+>Задание №9 - Эмоджи
 ```dart
 void main() {
   Runes emoji = Runes('\u{1f600}');
