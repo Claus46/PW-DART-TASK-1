@@ -210,3 +210,11 @@ void main() {
   print('Сумма чисел a,b,d = ${S};');
 }
 ```
+>Задание №23
+```dart
+void main() {
+  
+  String a = "Африка";
+  print('Букв в слове = ${a.length};');
+}
+```
