@@ -195,7 +195,7 @@ void main() {
   print('Не четное = ${b(b1)};');
 }
 ```
->Задание №23
+>Задание №25
 ```dart
 void main() {
   
@@ -210,7 +210,7 @@ void main() {
   print('Сумма чисел a,b,d = ${S};');
 }
 ```
->Задание №23
+>Задание №26
 ```dart
 void main() {
   
@@ -218,7 +218,7 @@ void main() {
   print('Букв в слове = ${a.length};');
 }
 ```
->Задание №23
+>Задание №27
 ```dart
 void main() {
 String privet = "Vsem privet";
@@ -226,7 +226,13 @@ final containsStrok = privet.contains('reivwt');
   print("Сщдержится ли в тексте ${privet} нужна строка? - ${containsStrok}");
 }
 ```
->Задание №23
+>Задание №28
 ```dart
+void main() {
+  String currentText = "Fibinachi is very big numer";
+  String reversedText = currentText.split("").reversed.join("");
+  
+  //Недоделано.
+}
 
 ```
