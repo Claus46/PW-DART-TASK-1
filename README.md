@@ -218,3 +218,15 @@ void main() {
   print('Букв в слове = ${a.length};');
 }
 ```
+>Задание №23
+```dart
+void main() {
+String privet = "Vsem privet";
+final containsStrok = privet.contains('reivwt');
+  print("Сщдержится ли в тексте ${privet} нужна строка? - ${containsStrok}");
+}
+```
+>Задание №23
+```dart
+
+```
