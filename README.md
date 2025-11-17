@@ -195,3 +195,18 @@ void main() {
   print('Не четное = ${b(b1)};');
 }
 ```
+>Задание №23
+```dart
+void main() {
+  
+  int a = 2;
+  int b = 5;
+  int d = 6;
+  
+  int S = a + b + d;
+    print('Число = ${a};');
+    print('Число = ${b};');
+    print('Число = ${d};');
+  print('Сумма чисел a,b,d = ${S};');
+}
+```
